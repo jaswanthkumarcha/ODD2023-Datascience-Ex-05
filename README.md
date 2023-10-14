@@ -16,10 +16,10 @@ Apply Feature Generation techniques to all the feature of the data set
 Save the data to the file
 
 # PROGRAM
-
-#### Developed by:chadalawada jaswanth
-#### Register number:212221040030
-
+```
+Developed by:chadalawada jaswanth
+Register number:212221040030
+```
 ### For Encoding.csv file
 ```
 import pandas as pd
@@ -91,44 +91,70 @@ df2
 # OUTPUT
 
 ### For encoding.csv file
-
 #### Initial data:
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/f4fe37e3-ba5c-4b95-8d55-91476fe4ac55)
 
 #### Unique value:
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/339a8e85-5579-4b62-add2-81ddd5ffb991)
 
 
 #### Ordinal Encoder:
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/5b0836ec-072c-4eb4-88aa-ff07d98f2e51)
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/e803c3f7-a88f-4a55-8f83-d8f3a6af842e)
 
 
 #### Label Encoder:
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/c8eee661-21b0-49f5-926c-c271fe62c332)
 
 
 #### Binary Encoder:
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/e81127c4-e6d3-4b39-a284-3f88ae525aae)
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/cfcce2d7-cfe5-479f-acb6-84daa689cbc9)
 
 ### For Data.csv file
 
 #### Initial data:
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/0ec23774-c2aa-488f-981e-6b93074880b3)
 
 #### Unique value:
 
 
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/9b6dfed0-c23d-4553-a43f-af1aed5bce87)
+
+
 #### Ordinal Encoder:
+
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/c714e4a4-943b-4b0d-a6a5-97883ef6c58c)
+
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/2bfced59-1371-41a8-b6cc-df7731ba0935)
 
 
 #### Label Encoder:
 
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/65051665-c5eb-4cec-82bd-bbe0f93a721d)
+
 
 #### Binary Encoder:
+
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/acafeb0d-bc25-4e32-9248-e4db0bc73156)
+
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/d406ca2e-fdef-43df-8712-6d0d64038044)
 
 ### For bmi.csv file
 
 #### Initial data:
 
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/9dcb8853-e71b-4442-8493-3ab51cd4673c)
+
 
 #### Binary Encoders:
 
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/0e692be9-0d3b-4b50-8061-93bc43dbfa00)
+
 
 #### Dummies:
+
+![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-05/assets/119393675/c22a3106-9968-4dfe-a23d-e4e7e324c419)
 
 
 # RESULT:
